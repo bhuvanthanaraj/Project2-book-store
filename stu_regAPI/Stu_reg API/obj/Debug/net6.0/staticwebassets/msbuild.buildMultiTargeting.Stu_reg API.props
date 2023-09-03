@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Stu_reg API.props" />
+</Project>

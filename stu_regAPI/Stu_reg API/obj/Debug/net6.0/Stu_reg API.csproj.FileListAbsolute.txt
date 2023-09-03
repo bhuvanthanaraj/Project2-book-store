@@ -1,0 +1,71 @@
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\appsettings.Development.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\appsettings.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Stu_reg API.exe
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Stu_reg API.deps.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Stu_reg API.runtimeconfig.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Stu_reg API.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Stu_reg API.pdb
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Humanizer.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.csproj.AssemblyReference.cache
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.AssemblyInfoInputs.cache
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.AssemblyInfo.cs
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.csproj.CoreCompileInputs.cache
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.MvcApplicationPartsAssemblyInfo.cs
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.MvcApplicationPartsAssemblyInfo.cache
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets\msbuild.Stu_reg API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets\msbuild.build.Stu_reg API.props
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Stu_reg API.props
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Stu_reg API.props
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\scopedcss\bundle\Stu_reg API.styles.css
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.csproj.CopyComplete
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\refint\Stu_reg API.dll
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.pdb
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\Stu_reg API.genruntimeconfig.cache
+E:\.Netfullstack project\Project 3 (Angular Tech)\Stu_reg API\Stu_reg API\obj\Debug\net6.0\ref\Stu_reg API.dll

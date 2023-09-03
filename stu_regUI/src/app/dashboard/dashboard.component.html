@@ -1,0 +1,49 @@
+<app-navbar></app-navbar>
+<br><br><br><br><br>
+
+
+
+<div class="container border-Primary">
+    <div class="container border-warning">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Student Name</th>
+            <th>Student Code</th>
+            <th>Department</th>
+            <th>Gender</th>
+            <th>Email Id</th>
+            <th>Dob</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let dataItem of studetails">
+            <td>{{ dataItem.StudentName }}</td>
+            <td>{{ dataItem.StudentCode }}</td>
+            <td>{{ dataItem.Department }}</td>
+            <td>{{ dataItem.Gender }}</td>
+            <td>{{ dataItem.EmailId }}</td>
+            <td>{{ dataItem.Dob }}</td>
+  
+            <!-- <td>{{dataItem.subtotal}}</td> -->
+            <!-- <td>
+              <button
+                type="button"
+                class="btn btn-dark mr-1"
+                (click)="getAddToCart(dataItem)"
+              >
+                <p>AddToCart</p>
+              </button>
+            </td> -->
+          </tr>
+        </tbody>
+      </table>
+      <!-- <button type="button" class="btn btn-dark mr-1" (click)="getAddToCart()">
+        Go To Cart
+      </button> -->
+    </div>
+<div>
+    
+</div>
+
+  </div>
